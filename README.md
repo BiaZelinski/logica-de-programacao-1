@@ -1,2 +1,2 @@
-# logica-de-programacao-1
+# logica-de-programacao-I
 edutech-PR prof Thai
